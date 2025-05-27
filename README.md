@@ -30,7 +30,7 @@ _**Örnek Button.json**_
 
      "buttons":
 	[  
-	    [   { "id": 1,   "text": "Cmd"  }, { "id": 2,   "text": "Notepad"}  ]
+	    [   { "id": 1, "text": "Cmd"  }, { "id": 2, "text": "Notepad"}  ]
     	],
     
     "events": 
@@ -55,8 +55,8 @@ _**Örnek2 Button.json**_
 
      "buttons":
 	[  
-	    [   { "id": 1,   "text": "Cmd"  }, { "id": 2,   "text": "Notepad"}  ]
-	    [   { "id": 3,   "text": "Paint"  }, { "id": 4,   "text": "Taskmgr"}  ]
+	    [   { "id": 1, "text": "Cmd"  }, { "id": 2, "text": "Notepad"}  ]
+	    [   { "id": 3, "text": "Paint"}, { "id": 4, "text": "Taskmgr"}  ]
     	],
     
     
