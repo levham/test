@@ -1,12 +1,10 @@
 # 📂 interface
-|---------------|------------------------------|
 Program şurada -> bin\Debug\net8.0-windows\a16.exe
 Bu program ile kendi butonlu menünüzü json dosyası üzerinden yazabilirsiniz
 
 Button.json içeriğini değiştirebilirsiniz
 
-Button.json içindeki parametreler
-|---------------|------------------------------|
+Button.json içindeki parametreler 
 | 📁 paramtre | 📌 Detail|
 |---------------|------------------------------|
 | `gita.bat`       | git add . |
