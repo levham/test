@@ -8,13 +8,14 @@ _Program şurada -> **bin\Debug\net8.0-windows\a16.exe**_
 # Button.json 
 | 📁 Parametre | 📌 Açıklama|
 |---------------|-------------------|
-| form       | _**pencere hakkında**_|
+| **form**       | _pencere hakkında_|
 | `width: 500`       | _pencere genişliği_|
 | `height: 120`      | _pencere yüksekliği_|
 |`location:[0, 0]`     | _pencere konumu_|
-| button    | _**butonlar**|
-| events    | _**çalıştırılacak programlar**_|
+| **button**   | _butonlar_|
+| **events**    | _çalıştırılacak programlar_|
 | `eventName` | _çalıştırılacak program_|
+
 
 Örnek Button.json
 ```
