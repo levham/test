@@ -1,11 +1,10 @@
 # 📂 interface
+ Bu program ile kendi butonlu menünüzü button.json dosyası üzerinden yazabilirsiniz.
+
+ _! Button.json içeriğini değiştirdikten sonra a16.exe'yi çalştırabilirsiniz._
 _Program şurada -> **bin\Debug\net8.0-windows\a16.exe**_ 
 
- Bu program ile kendi butonlu menünüzü json dosyası üzerinden yazabilirsiniz
-
- !Button.json içeriğini değiştirebilirsiniz
-
-# Button.json 
+# button.json 
 | 📁 Parametre | 📌 Açıklama|
 |---------------|-------------------|
 | **form**       | _pencere hakkında_|
@@ -17,7 +16,7 @@ _Program şurada -> **bin\Debug\net8.0-windows\a16.exe**_
 | `eventName` | _çalıştırılacak program_|
 
 
-Örnek Button.json
+_**Örnek Button.json**_
 ```
 { 
     "form": 
