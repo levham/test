@@ -1,6 +1,6 @@
 # 📂 Git
  
-<table border="1">
+<table >
   <tr>
     <th>git yükleme yeri</th>
     <th>[**_git-scm.com_**](https://git-scm.com/downloads/win)</th>
@@ -15,7 +15,7 @@
   </tr>
 </table>
 
- 
+
 
 - [ ] eğer olmuyorsa
 	+ yüklendiği yolu kontrol et 
