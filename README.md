@@ -1,4 +1,4 @@
-# notes
+# 📂 <ins> Notes</ins>
 > [!TIP]
 > Geliştiriciler için notlar
 
