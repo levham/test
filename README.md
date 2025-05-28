@@ -3,11 +3,12 @@
 
 →Program şurada -> [_**bin\Debug\net8.0-windows\a16.exe**_](https://github.com/levham/interface/blob/main/bin/Debug/net8.0-windows/a16.exe). 
 
- _⚠ Button.json içeriğini değiştirdikten sonra a16.exe'yi çalştırabilirsiniz._
+> [!IMPORTANT]
+>_ Button.json içeriğini değiştirdikten sonra a16.exe'yi çalştırabilirsiniz._
 <br>
 <br>
 ### 📂 button.json
-| 📁 Parametre | 📌 Açıklama|
+| ✨ Parametre | 📌 Açıklama|
 |---------------|-------------------|
 | _**form**_      | _pencere hakkında_|
 | `width: 500`       | _pencere genişliği_|
