@@ -1,9 +1,5 @@
 # ✨Yaptığım Projeler   
 
-|📚 Language | 📌 Proje Açıklama|
-|---------------|-------------------|
- 
-
 
 <div align="center">
   <table>
@@ -19,7 +15,7 @@
 
     <tr>
       <td>
-		![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+		![C#]()
       </td>
     </tr>
 
@@ -32,3 +28,17 @@
   </table>
 </div>
 
+
+
+
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"  /><br/>
+      <strong>Location</strong><br/>
+      Samarkand, Uzbekistan
+    </td> 
+  </tr>
+</table>
