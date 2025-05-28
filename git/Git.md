@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td align="center"> <strong><pre><code>git --version </code></pre></strong> </td>
-    <td align="center"> <strong>Git versiyon kontrolü</strong><br/> </td>
+    <td align="center"> <strong><i>Git versiyon kontrolü</i></strong><br/> </td>
   </tr>
 
 
