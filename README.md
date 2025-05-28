@@ -18,7 +18,7 @@
 | `eventName` | _çalıştırılacak program_|
 <br>
 
-✨✨**Örnek Button.json**
+✨✨<ins>**Örnek Button.json**</ins>
 ```
 { 
     "form": 
@@ -46,7 +46,7 @@
 ![output](test1.png)
 <br>
 
-📁**Örnek2 Button.json**
+✨✨<ins>**Örnek2 Button.json**</ins>
 ```
 { 
     "form": 
