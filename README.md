@@ -42,7 +42,7 @@ _**Örnek Button.json**_
 
 }
 ```
-###Programın Çalışma Örneği
+_**Programın Çalışma Örneği**_
 ![output](test1.png)
 
 
@@ -76,5 +76,5 @@ _**Örnek2 Button.json**_
 
 }
 ```
-###_Programın Çalışma Örneği_
+_**Programın Çalışma Örneği**_
 ![output](test2.png)
