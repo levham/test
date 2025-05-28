@@ -1,5 +1,5 @@
 # ✨ <ins> Notes</ins>
-_**Geliştiriciler için notlar**_
+> _**Geliştiriciler için notlar**_
 
 | 📂 Sayfalar | 📌 Açıklama|
 |---------------|-------------------|
