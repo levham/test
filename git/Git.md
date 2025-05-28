@@ -13,6 +13,10 @@
     <td align="center"> <strong><pre><code>git --version </code></pre></strong> </td>
     <td align="center"> <i>Git versiyon kontrolü</i> </td>
   </tr>
+  <tr>
+    <td>Git Versiyon Kontrolü:</td>
+    <td><input type="text" placeholder="Komutu girin..."></td>
+  </tr>
 
 
 
