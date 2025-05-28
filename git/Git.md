@@ -14,12 +14,23 @@
     <td align="center"> <i>Git versiyon kontrolü</i> </td>
   </tr>
   <tr>
-    <td>Git Versiyon Kontrolü:</td>
-    <td><input type="text" placeholder="Komutu girin..."></td>
+  
   </tr>
 
 
 
 </table>
 
+git yükleme yeri -> [**_git-scm.com_**](https://git-scm.com/downloads/win)
 
+git yüklenmiş mi diye kontrol et `git --version `
+	
+
+eğer olmuyorsa -> 
+	yüklendiği yolu kontrol et 
+	konumunu path a kaydet
+
+eğer git varsa -> 
+	hesabını kaydet 
+	git config --global user.name
+	git config --global user.email
