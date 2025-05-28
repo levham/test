@@ -17,13 +17,23 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>eğer olmuyorsa: </td>
+    <td>
+		yüklendiği yolu kontrol et <br>
+		konumunu path a kaydet
+    </td>
+  </tr>
 </table>
 
-
-
-- [ ] eğer olmuyorsa
-	+ yüklendiği yolu kontrol et 
-	+ konumunu path a kaydet
 
 - [ ] eğer git varsa hesabını kaydet 
 	+ <pre><code>git config --global user.name  ??</code></pre>
