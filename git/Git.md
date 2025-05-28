@@ -56,44 +56,35 @@
  <tr>
     <td>state bölgesine dosya gönderme </td>
     <td>
-    	<pre><code>git add </code></pre>
-    	<pre><code>git status</code></pre>
-
+    	<pre><code>git add ? </code></pre>
+    	<pre><code>git add . </code></pre>
     </td>
   </tr>
-- [ ] git add ->  state bölgesine dosya gönderir 
-	<pre><code>git add asdf.txt </code></pre>
-	<pre><code>git add . herşeyi gönder</code></pre>
-
+ 
  <tr>
-    <td></td>
-    <td></td>
+    <td>göndermeden önceki yorum yapma</td>
+    <td>
+    <pre><code>git commit -m "yorum" </code></pre>
+    </td>
   </tr>
 
-git commit -> 
-	göndermeden önceki yorum
-	git commit -m "yorum"
-	bütün dosyalar takip ediliyorsa ve stagede değilse ->
-	git commit -am "yorum"
-
  <tr>
-    <td></td>
-    <td></td>
+    <td>bütün dosyalar takip ediliyorsa ve stagede değilse</td>
+    <td><pre><code>git commit -am "?" </code></pre></td>
+  </tr>
+ 
+ <tr>
+    <td>stage bölgesinden geri alır </td>
+    <td><pre><code>git restore --staged ? </code></pre><br>
+    	<pre><code>git restore --staged . </code></pre></td>
   </tr>
 
-git restore --staged 
-	stage bölgesinden geri alır 
-	git restore --staged . hepsini geri alır 
-
  <tr>
-    <td></td>
-    <td></td>
+    <td>commit geçmişi <br>--oneline tek satırda </td> 
+    <td><pre><code>git log </code></pre><br>
+    	<pre><code>git log --oneline </code></pre></td>
   </tr>
-
-git log 
-	commit geçmişi
-	git log --oneline tek satırdaki loglar
-
+ 
  <tr>
     <td></td>
     <td></td>
@@ -102,55 +93,58 @@ git commit --amend
 git add ile 2 dosyadadn birini stageye gönderdikten ve git commit -m "" ettikten sonra stagede olmayan dosyayı deklemek istersen git add ile ekle sonra git commit --amend yaz çıkan sayfada commit ediceğin metni yaz bu sayede en son mmit ettiğin şey düzenlenmiş olucak
 
  <tr>
-    <td></td>
-    <td></td>
+    <td>gitignore dosyası</td>
+    <td>commit edilmesini istemediğin dosyaları .gitignore içine teker teker veya <br>
+	test/  gibi klasör adıyla veya *.js tüm js dosya gibi yazabilirisin.<br>
+	git status yapınca görünmüyorlar</td>
   </tr>
-
-gitignore ->
-	commit edilmesini istemeidğin dosyaları .gitignore içine teker teker veya test/  gibi klasör adıyla yazabilrisin veya *.js tüm js dosya gibi yazabilirisin.
-git status yapınca görünmüyor bu sayede gitignore ile 
+ 
 
  <tr>
-    <td></td>
-    <td></td>
+    <td><pre><code>git rm --cached ?</code></pre><br>
+    	<pre><code>git rm --cached -r ? </code></pre><br> 
+    	<pre><code>git rm --cached config.json </code></pre></td>
+    <td>diyelimki config.json dosyasını gitignore ye koymadan commit edilmişse config.json dosyasında değişiklik yapınca bu değişiklik git statusta görünüyor. buna engel olmak için git rm --cached config.json yazqabilirsin bu sayede daha takip edilmez. klasörler için  git rm --cached -r </td>
   </tr>
-
-git rm --cached
-	diyelimki config.json dosyasını gitignore ye koymadan commit ettin sonra config.json dosyasında değişiklik yapınca bu değişiklik git statusta görünüyor. buna engel olmak için git rm --cached config.json yazqabilirsin bu sayede daha takip edilmez. klasörler için  git rm --cached -r 
-
-visual studio code da dosya listesinde gitignore varsa onun içindeki dosya o listede soluk renkte görülür. ayrıca takip edilen ve edilmeyen dosyalarda görülür. değişiklik bir dosyada yapılmışsa turuncu renkte yazı rengi değişir ve yanında M sembolu olur .eğer yanında U yazarsa takip edilmeyen anlamında 
-
-git branch -> 
-	branch listeler master gibi 
-	mevcut branch başında * görünür
-	git branch test komtu testisminde branch oluşturur 
-	git switch -C test3 yeni brancg oluşturur ve geçiş yapar
-	git branch -m yeniisim komutuyla şuanki branch adı değişti 
-	git branch -d test komutu test branchını siler  ama bulunduğu yeri silemezsin diğer bracha geçiş yapıp öyle komuytu kullanabilrisin 
-	git branch -D test
 
 
  <tr>
-    <td></td>
-    <td></td>
+    <td>visual studio code'da git</td>
+    <td>visual studio code da dosya listesinde gitignore varsa onun içindeki dosya o listede soluk renkte görülür. ayrıca takip edilen ve edilmeyen dosyalarda görülür. değişiklik bir dosyada yapılmışsa turuncu renkte yazı rengi değişir ve yanında M sembolu olur .eğer yanında U yazarsa takip edilmeyen anlamında </td>
   </tr>
-git switch ->
-	git siwtch test test branchına greçiş yapar.ve geçiş yaptığı branch a göe dizinde o dosyalar görünür.
+	
+ 
+  
+ <tr>
+    <td>
+    	<pre><code>git branch</code></pre><br>
+    	<pre><code>git switch -C ? </code></pre><br>
+    	<pre><code>git branch -m /code></pre><br>
+    	<pre><code>git branch -d test</code></pre><br>
+    	<pre><code>git branch -D </code></pre><br>
+    </td>
+    <td>
+    	branch listeler ve mevcut branch başında * görünür<br>
+yeni brancg oluşturur ve geçiş yapar<br>
+ şuanki branch adı değiştirir<br>
+ test branchını siler ama bulunduğu yeri silemezsin diğer brancha geçiş yapmalısın<br>
+
+	</td>
+  </tr>
 
  <tr>
-    <td></td>
-    <td></td>
+    <td> <pre><code>git switch ? </code></pre></td>
+    <td>branchlara geçiş yapar.ve geçiş yaptığı branch a göre dizinde o dosyalar görünür.</td>
   </tr>
-git checkout ->
-	git sitch in alternatifi eskisii
-
+  
  <tr>
-    <td></td>
-    <td></td>
+    <td> <pre><code>git checkout</code></pre></td>
+    <td>git switch in alternatifi eskisii</td>
   </tr>
-
-git switch -f master 
-branchlar arası geçişte değişikliği kaydedilmeyen dosyalar için uyarı alınabilir  - f parametresiyle geçiş yapabilrisiniz ama veri kaybı oluyor 
-https://youtu.be/ntUaf2NHE00?list=PLeGbjrys0OZKPvB7z2JNT8Nxp4VfnFiN6
-
+ 
+ <tr>
+    <td>git switch -f master </td>
+    <td>branchlar arası geçişte değişikliği kaydedilmeyen dosyalar için uyarı alınabilir  - f parametresiyle geçiş yapabilrisiniz ama veri kaybı oluyor </td>
+  </tr>
+ 
 </table>
