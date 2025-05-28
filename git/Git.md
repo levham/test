@@ -2,8 +2,12 @@
  
 <table >
   <tr>
-    <th>git yükleme yeri</th>
-    <th>[**_git-scm.com_**](https://git-scm.com/downloads/win)</th>
+    <th>Açıklama </th>
+    <th>Git Kodu</th>
+  </tr>
+  <tr>
+	<td>git yükleme yeri</th>
+    <td>[**_git-scm.com_**](https://git-scm.com/downloads/win)</th>
   </tr>
   <tr>
     <td>git yüklenmiş mi diye kontrol et</td>
