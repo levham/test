@@ -6,7 +6,8 @@
 > [!NOTE]
 > Button.json içeriğini değiştirdikten sonra a16.exe'yi çalştırabilirsiniz.
  
-<span style="color: green;">Renkli yazı</span>
+ <span style="color:red">Bu yazı kırmızı!</span>
+
 
 ### 📂 button.json
 | ✨ Parametre | 📌 Açıklama|
