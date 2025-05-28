@@ -26,8 +26,18 @@
 	  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  />
 	</td> 
 	<td>
-	  <strong>İnterface</strong><br />
-	  <strong>İnterface</strong>
+<a href="https://t.me/mat_mr1aybot" target="_blank"><strong>MatMenu</strong></a>
+<a href="https://t.me/geo_mr1aybot   " target="_blank"><strong>Geometri</strong></a>
+<a href="https://t.me/matgrup_mr1aybot " target="_blank"><strong>MatGrup</strong></a>
+<a href="https://t.me/hendese_mr1aybot " target="_blank"><strong>Hendese</strong></a>
+<a href="https://t.me/ydskelime_mr1aybot" target="_blank"><strong>Yds Kelime</strong></a>
+<a href="https://t.me/doviz_mr1aybot " target="_blank"><strong>Döviz</strong></a>
+<a href="https://t.me/hesapla_mr1aybot" target="_blank"><strong>Hesapla</strong></a>
+<a href="https://t.me/algebra_mr1aybot" target="_blank"><strong>Algebra</strong></a>
+<a href="https://t.me/deprem_mr1aybot" target="_blank"><strong>Son Depremler</strong></a>
+<a href="https://t.me/ykssayac_mr1aybot" target="_blank"><strong>Yks Sayaç</strong></a>
+
+
 	</td>
 	<td><a href="https://github.com/levham/interface" target="_blank">
 		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong>
@@ -36,25 +46,6 @@
 </tr>
 
 
-Menü ve komut özelliği içermektedir
-5🌟GeoMenu @Mr1ay_bot 
-5🌟MatMenu v:2.5 @mat_mr1aybot
- 
-🔸Gruplarda Kullanılabilenler
-Sadece komut özelliği içermektedir
-5🌟GeoGrup @mr1aybot 
-5🌟Geometri v2.3 @geo_mr1aybot   
-5🌟MatGrup v:2.5 @matgrup_mr1aybot 
-5🌟Hendese v2.4 @hendese_mr1aybot 
-4🌟Yds Kelime v1.2 @ydskelime_mr1aybot
-4🌟Döviz v:2.3 @doviz_mr1aybot 
-İnline ve komut özelliği içeren botlar
-4🌟Hesapla v:2.6.x @hesapla_mr1aybot
-4🌟Algebra v:2.1.x @algebra_mr1aybot
-Son Depremler
-https://t.me/deprem_mr1aybot
-Yks Sayaç 
-https://t.me/ykssayac_mr1aybot
 
 
 
