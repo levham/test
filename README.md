@@ -6,7 +6,7 @@ Program şurada -> [_**bin\Debug\net8.0-windows\a16.exe**_](https://github.com/l
  _⚠ Button.json içeriğini değiştirdikten sonra a16.exe'yi çalştırabilirsiniz._
 <br>
 <br>
-###button.json
+### button.json
 | 📁 Parametre | 📌 Açıklama|
 |---------------|-------------------|
 | _**form**_      | _pencere hakkında_|
@@ -18,7 +18,7 @@ Program şurada -> [_**bin\Debug\net8.0-windows\a16.exe**_](https://github.com/l
 | `eventName` | _çalıştırılacak program_|
 <br>
 
-📁_**Örnek Button.json**_
+📁**_Örnek Button.json_**
 ```
 { 
     "form": 
@@ -42,7 +42,7 @@ Program şurada -> [_**bin\Debug\net8.0-windows\a16.exe**_](https://github.com/l
 
 }
 ```
-📌_**Programın Çalışma Örneği**_
+📌**_Programın Çalışma Örneği_**
 ![output](test1.png)
 <br>
 
@@ -72,5 +72,5 @@ Program şurada -> [_**bin\Debug\net8.0-windows\a16.exe**_](https://github.com/l
 
 }
 ```
-📌_**Programın Çalışma Örneği**_
+📌**_Programın Çalışma Örneği_**
 ![output](test2.png)
