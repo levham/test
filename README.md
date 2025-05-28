@@ -5,8 +5,8 @@ Program şurada -> [_**bin\Debug\net8.0-windows\a16.exe**_](https://github.com/l
 
  _⚠ Button.json içeriğini değiştirdikten sonra a16.exe'yi çalştırabilirsiniz._
 <br>
-
-|button.json|
+<br>
+###button.json
 | 📁 Parametre | 📌 Açıklama|
 |---------------|-------------------|
 | _**form**_      | _pencere hakkında_|
