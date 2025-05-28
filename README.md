@@ -3,7 +3,7 @@
 
  _! Button.json içeriğini değiştirdikten sonra a16.exe'yi çalştırabilirsiniz._
 
-_Program şurada -> **bin\Debug\net8.0-windows\a16.exe**_ 
+_Program şurada -> [**bin\Debug\net8.0-windows\a16.exe**_](https://github.com/levham/interface/blob/main/bin/Debug/net8.0-windows/a16.exe). 
 
 ## button.json 
 | 📁 Parametre | 📌 Açıklama|
