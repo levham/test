@@ -19,8 +19,9 @@
 | `eventName` | _çalıştırılacak program_|
 <br>
 
-✨✨<ins>**Örnek Button.json**</ins>
-```
+> [!TIP]
+>  ✨✨<ins>**Örnek2 Button.json**</ins><br />
+``` 
 { 
     "form": 
 	{
@@ -44,8 +45,9 @@
 }
 ```
 
-> [!TIP]
-> 📌**Programın Çalışma Örneği**<br />![output](test1.png)
+> [!NOTE]
+> 📌**Programın Çalışma Örneği**
+![output](test1.png)
 <br>
 
 > [!TIP]
@@ -75,6 +77,7 @@
 
 }
 ```
-> [!TIP]
-> 📌**Programın Çalışma Örneği**<br />![output](test2.png)
+> [!NOTE]
+> 📌**Programın Çalışma Örneği**
+![output](test2.png)
 <br>
