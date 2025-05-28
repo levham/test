@@ -1,5 +1,5 @@
 # 📂 <ins> Notes</ins>
-> [!TIP]
+> [!Note]
 > Geliştiriciler için notlar
 
 | ✨ Sayfalar | 📌 Açıklama|
