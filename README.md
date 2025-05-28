@@ -4,7 +4,7 @@
 Program şurada -> [_**bin\Debug\net8.0-windows\a16.exe**_](https://github.com/levham/interface/blob/main/bin/Debug/net8.0-windows/a16.exe). 
 
  _⚠ Button.json içeriğini değiştirdikten sonra a16.exe'yi çalştırabilirsiniz._
-
+<br>
 
 **_button.json_**
 | 📁 Parametre | 📌 Açıklama|
@@ -16,7 +16,6 @@ Program şurada -> [_**bin\Debug\net8.0-windows\a16.exe**_](https://github.com/l
 | _**button**_  | _butonlar_|
 | _**events**_    | _çalıştırılacak programlar_|
 | `eventName` | _çalıştırılacak program_|
-
 <br>
 
 📁_**Örnek Button.json**_
@@ -45,11 +44,7 @@ Program şurada -> [_**bin\Debug\net8.0-windows\a16.exe**_](https://github.com/l
 ```
 📌_**Programın Çalışma Örneği**_
 ![output](test1.png)
-
 <br>
-
-
-
 
 📁_**Örnek2 Button.json**_
 ```
