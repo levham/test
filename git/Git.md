@@ -122,7 +122,7 @@
 <tr>
 	<td><pre><code>git branch -d test</code></pre> <br>
  	<pre><code>git branch -D </code></pre> </td>
- 	td>test branchını siler ama bulunduğu yeri silemezsin diğer brancha geçiş yapmalısın </td>
+ 	<td>test branchını siler ama bulunduğu yeri silemezsin diğer brancha geçiş yapmalısın </td>
 <tr>
 <tr>
     <td> <pre><code>git switch ? </code></pre></td>
