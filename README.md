@@ -16,7 +16,7 @@ _Program şurada -> **bin\Debug\net8.0-windows\a16.exe**_
 | **events**    | _çalıştırılacak programlar_|
 | `eventName` | _çalıştırılacak program_|
 
-
+<br>
 
 📁_**Örnek Button.json**_
 ```
@@ -45,7 +45,7 @@ _Program şurada -> **bin\Debug\net8.0-windows\a16.exe**_
 📌_**Programın Çalışma Örneği**_
 ![output](test1.png)
 
-
+<br>
 
 
 
