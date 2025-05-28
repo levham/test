@@ -11,10 +11,10 @@
 	  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"  />
 	</td> 
 	<td>
-	  **İnterface**
+	  <strong>İnterface</strong>
 	</td>
 	<td>
-	  **_Csharp Form Butonlu Arayuz_**
+	  <strong><ins>Csharp Form Butonlu Arayuz</ins></strong>
 	</td>
 </tr>
 
@@ -23,10 +23,10 @@
 	  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)"  />
 	</td> 
 	<td>
-	  
+	  <strong>Keylogger</strong>
 	</td>
 	<td>
-	  Oyun İçi Tuş Dinleyici
+	  <strong><ins>Oyun İçi Tuş Dinleyici<ins></strong>
 	</td>
 </tr>
 
