@@ -1,5 +1,26 @@
 # 📂 Git
  
+<table border="1">
+  <tr>
+    <th>Başlık 1</th>
+    <th>Başlık 2</th>
+    <th>Başlık 3</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+
+ 
 - [x] git yükleme yeri -> [**_git-scm.com_**](https://git-scm.com/downloads/win)
 
 - [x] git yüklenmiş mi diye kontrol et <pre><code>git --version </code></pre>
