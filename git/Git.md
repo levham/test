@@ -7,7 +7,7 @@
   </tr>
   <tr>
 	<td>git yükleme yeri</th>
-    <td>[**_git-scm.com_**](https://git-scm.com/downloads/win)</th>
+    <td><a href="https://git-scm.com/downloads/win target="_blank">git-scm.com</a><br> </td>
   </tr>
   <tr>
     <td>git yüklenmiş mi diye kontrol et</td>
