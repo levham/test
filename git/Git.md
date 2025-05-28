@@ -107,7 +107,7 @@
     <td>visual studio code da dosya listesinde gitignore varsa onun içindeki dosya o listede soluk renkte görülür. ayrıca takip edilen ve edilmeyen dosyalarda görülür. değişiklik bir dosyada yapılmışsa turuncu renkte yazı rengi değişir ve yanında M sembolu olur .eğer yanında U yazarsa takip edilmeyen anlamında </td>
 </tr>
 <tr>
-	<td><pre><code>git branch</code></pre> <br>
+	<td><pre><code>git branch</code></pre> </td>
 	<td>branch listeler ve mevcut branch başında * görünür </td>
 </tr>
 
@@ -116,8 +116,8 @@
 	<td>yeni brancg oluşturur ve geçiş yapar </td>
 </tr>
 <tr>
-	<td><pre><code>git branch -m /code></pre> </code>
-	<td>şuanki branch adı değiştirir </code>
+	<td><pre><code>git branch -m </code></pre></code> </td>
+	<td>şuanki branch adı değiştirir </code></td>
 </tr>
 <tr>
 	<td><pre><code>git branch -d test</code></pre> <br>
@@ -133,7 +133,7 @@
     <td>git switch in alternatifi eskisii</td>
 </tr>
 <tr>
-    <td>git switch -f master </td>
+    <td> <pre><code>git switch -f master </code></pre></td>
     <td>branchlar arası geçişte değişikliği kaydedilmeyen dosyalar için uyarı alınabilir  - f parametresiyle geçiş yapabilrisiniz ama veri kaybı oluyor </td>
 </tr>
  
