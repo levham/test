@@ -33,6 +33,7 @@ _**Örnek Button.json**_
 	    [   { "id": 1, "text": "Cmd"  }, { "id": 2, "text": "Notepad"}  ]
     	],
     
+    
     "events": 
 	[
             {   "id": 1, "eventName": "C:\\Windows\\System32\\cmd.exe" },
@@ -41,6 +42,11 @@ _**Örnek Button.json**_
 
 }
 ```
+![output](test1.png)
+
+
+
+
 
 
 _**Örnek2 Button.json**_
@@ -55,18 +61,18 @@ _**Örnek2 Button.json**_
 
      "buttons":
 	[  
-	    [   { "id": 1, "text": "Cmd"  }, { "id": 2, "text": "Notepad"}  ]
-	    [   { "id": 3, "text": "Paint"}, { "id": 4, "text": "Taskmgr"}  ]
+	    [   { "id": 1, "text": "Cmd"  }, { "id": 2, "text": "Notepad"}  ],
+	    [   { "id": 3, "text": "Paint"  }  ]
     	],
     
     
     "events": 
 	[
             {   "id": 1, "eventName": "C:\\Windows\\System32\\cmd.exe" },
-            {   "id": 2, "eventName": "C:\\Windows\\System32\\notepad.exe"}
-            {   "id": 3, "eventName": "C:\\Windows\\System32\\mspaint.exe"}
-            {   "id": 4, "eventName": "C:\\Windows\\System32\\taskmgr.exe"}
+            {   "id": 2, "eventName": "C:\\Windows\\System32\\notepad.exe"} ,
+            {   "id": 3, "eventName": "C:\\Windows\\System32\\mspaint.exe"} 
     	]
 
 }
 ```
+![output](test2.png)
