@@ -44,7 +44,8 @@
 }
 ```
 📌**Programın Çalışma Örneği**
-![output](test1.png)
+> [!NOTE]
+> ![output](test1.png)
 <br>
 
 ✨✨<ins>**Örnek2 Button.json**</ins>
