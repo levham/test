@@ -20,7 +20,7 @@
 <br>
 
 > [!TIP]
->  ✨✨<ins>**Örnek2 Button.json**</ins><br />
+>  ✨✨<ins>**Örnek1 Button.json**</ins> 
 ``` 
 { 
     "form": 
@@ -48,10 +48,11 @@
 > [!NOTE]
 > 📌**Programın Çalışma Örneği**
 ![output](test1.png)
+
 <br>
 
 > [!TIP]
->  ✨✨<ins>**Örnek2 Button.json**</ins><br />
+>  ✨✨<ins>**Örnek2 Button.json**</ins> 
 ```
 { 
     "form": 
@@ -79,5 +80,6 @@
 ```
 > [!NOTE]
 > 📌**Programın Çalışma Örneği**
+
 ![output](test2.png)
 <br>
