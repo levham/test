@@ -1,8 +1,8 @@
 # 📂 Git
  
-+ git yükleme yeri -> [**_git-scm.com_**](https://git-scm.com/downloads/win)
+- [x] git yükleme yeri -> [**_git-scm.com_**](https://git-scm.com/downloads/win)
 
-+ git yüklenmiş mi diye kontrol et <pre><code>git --version </code></pre>
+- [x] git yüklenmiş mi diye kontrol et <pre><code>git --version </code></pre>
 	
 
 eğer olmuyorsa -> 
