@@ -56,12 +56,10 @@
 ---
 <br>
 <br>
-
 > [!TIP]
 >  ✨✨<ins>**Örnek2 Button.json**</ins> 
-<br>
 
-```
+``` 
 { 
     "form": 
 	{
