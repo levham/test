@@ -1,14 +1,8 @@
-# 📂 portfolyo
-> ## ✨Yaptığım Projeler  
-| ✨ Parametre | 📌 Açıklama|
+# ✨Yaptığım Projeler   
+
+|📚 Language | 📌 ProjeAçıklama|
 |---------------|-------------------|
-| _**form**_      | _pencere hakkında_|
-| `width: 500`       | _pencere genişliği_|
-| `height: 120`      | _pencere yüksekliği_|
-|`location:[0, 0]`     | _pencere konumu_|
-| _**button**_  | _butonlar_|
-| _**events**_    | _çalıştırılacak programlar_|
-| `eventName` | _çalıştırılacak program_|
+| ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | abcd | 
 <br>
 <br>
 
