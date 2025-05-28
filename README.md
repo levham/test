@@ -38,17 +38,16 @@
 <a href="https://t.me/ykssayac_mr1aybot" target="_blank"><strong>Yks Sayaç</strong></a>
 	</td>
 	<td>
-		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong>
-		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong>
-		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong>
-		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong>
-		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong>
-		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong>
-		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong>
-		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong>
-		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong>
-		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong>
-		
+		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong><br >
+		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong><br >
+		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong><br >
+		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong><br >
+		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong><br >
+		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong><br >
+		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong><br >
+		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong><br >
+		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong><br >
+		<strong><ins>Csharp Form Butonlu Arayuz</ins></strong><br >		
 	</td>
 </tr>
 
