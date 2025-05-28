@@ -47,10 +47,10 @@
 
 > [!NOTE]
 > 📌**Programın Çalışma Örneği**
+
 ![output](test1.png)
-
 <br>
-
+---
 > [!TIP]
 >  ✨✨<ins>**Örnek2 Button.json**</ins> 
 ```
