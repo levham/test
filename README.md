@@ -43,12 +43,13 @@
 
 }
 ```
-📌**Programın Çalışma Örneği**
-> [!NOTE]
-> ![output](test1.png)
+
+> [!TIP]
+> 📌**Programın Çalışma Örneği**<br />![output](test1.png)
 <br>
 
-✨✨<ins>**Örnek2 Button.json**</ins>
+> [!TIP]
+>  ✨✨<ins>**Örnek2 Button.json**</ins><br />
 ```
 { 
     "form": 
@@ -74,5 +75,6 @@
 
 }
 ```
-📌**Programın Çalışma Örneği**
-![output](test2.png)
+> [!TIP]
+> 📌**Programın Çalışma Örneği**<br />![output](test2.png)
+<br>
