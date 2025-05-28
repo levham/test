@@ -1,7 +1,7 @@
 # notes
-> [!NOTE]
-> notes for programming
+> [!TIP]
+> Geliştiriciler için notlar
 
 | ✨ Sayfalar | 📌 Açıklama|
 |---------------|-------------------|
-| _**git**_      | [_git sayfası_](git/Git.md)| 
+| **Git**     | [_git sayfası_](git/Git.md)| 
