@@ -9,5 +9,5 @@
 	+ konumunu path a kaydet
 
 - [ ] eğer git varsa hesabını kaydet 
-	+ git config --global user.name
-	+ git config --global user.email
+	+ <pre><code>git config --global user.name  ??</code></pre>
+	+ <pre><code>git config --global user.email ??</code></pre>
