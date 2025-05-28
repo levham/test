@@ -1,13 +1,8 @@
-# 📂 interface
-
-> [!TIP]
-> ✨Bu program ile kendi butonlu menünüzü button.json dosyası üzerinden yazabilirsiniz.<br/>→Program şurada -> [_**bin\Debug\net8.0-windows\a16.exe**_](https://github.com/levham/interface/blob/main/bin/Debug/net8.0-windows/a16.exe). 
+# 📂 portfolyo
 
 > [!NOTE]
-> Button.json içeriğini değiştirdikten sonra a16.exe'yi çalştırabilirsiniz.
- 
-
-### 📂 button.json
+> ✨Yaptığım Projeler 
+  
 | ✨ Parametre | 📌 Açıklama|
 |---------------|-------------------|
 | _**form**_      | _pencere hakkında_|
