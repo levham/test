@@ -86,35 +86,30 @@
   </tr>
  
  <tr>
-    <td></td>
-    <td></td>
+    <td>enson commit ettiğini düzenlemek</td>
+    <td><pre><code>git add .</code></pre><br>
+    	<pre><code>git commit --amend </code></pre></td>
   </tr>
-git commit --amend
-git add ile 2 dosyadadn birini stageye gönderdikten ve git commit -m "" ettikten sonra stagede olmayan dosyayı deklemek istersen git add ile ekle sonra git commit --amend yaz çıkan sayfada commit ediceğin metni yaz bu sayede en son mmit ettiğin şey düzenlenmiş olucak
-
+  
  <tr>
     <td>gitignore dosyası</td>
     <td>commit edilmesini istemediğin dosyaları .gitignore içine teker teker veya <br>
 	test/  gibi klasör adıyla veya *.js tüm js dosya gibi yazabilirisin.<br>
 	git status yapınca görünmüyorlar</td>
   </tr>
- 
-
+  
  <tr>
     <td><pre><code>git rm --cached ?</code></pre><br>
     	<pre><code>git rm --cached -r ? </code></pre><br> 
     	<pre><code>git rm --cached config.json </code></pre></td>
     <td>diyelimki config.json dosyasını gitignore ye koymadan commit edilmişse config.json dosyasında değişiklik yapınca bu değişiklik git statusta görünüyor. buna engel olmak için git rm --cached config.json yazqabilirsin bu sayede daha takip edilmez. klasörler için  git rm --cached -r </td>
   </tr>
-
-
+ 
  <tr>
     <td>visual studio code'da git</td>
     <td>visual studio code da dosya listesinde gitignore varsa onun içindeki dosya o listede soluk renkte görülür. ayrıca takip edilen ve edilmeyen dosyalarda görülür. değişiklik bir dosyada yapılmışsa turuncu renkte yazı rengi değişir ve yanında M sembolu olur .eğer yanında U yazarsa takip edilmeyen anlamında </td>
   </tr>
-	
- 
-  
+	 
  <tr>
     <td>
     	<pre><code>git branch</code></pre><br>
@@ -125,10 +120,9 @@ git add ile 2 dosyadadn birini stageye gönderdikten ve git commit -m "" ettikte
     </td>
     <td>
     	branch listeler ve mevcut branch başında * görünür<br>
-yeni brancg oluşturur ve geçiş yapar<br>
- şuanki branch adı değiştirir<br>
- test branchını siler ama bulunduğu yeri silemezsin diğer brancha geçiş yapmalısın<br>
-
+		yeni brancg oluşturur ve geçiş yapar<br>
+ 		şuanki branch adı değiştirir<br>
+ 		test branchını siler ama bulunduğu yeri silemezsin diğer brancha geçiş yapmalısın<br>
 	</td>
   </tr>
 
