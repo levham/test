@@ -5,15 +5,15 @@
 
 Program şurada -> [_**bin\Debug\net8.0-windows\a16.exe**_](https://github.com/levham/interface/blob/main/bin/Debug/net8.0-windows/a16.exe). 
 
-## _button.json _
+** _button.json _**
 | 📁 Parametre | 📌 Açıklama|
 |---------------|-------------------|
-| **form**       | _pencere hakkında_|
+| _**form** _      | _pencere hakkında_|
 | `width: 500`       | _pencere genişliği_|
 | `height: 120`      | _pencere yüksekliği_|
 |`location:[0, 0]`     | _pencere konumu_|
-| **button**   | _butonlar_|
-| **events**    | _çalıştırılacak programlar_|
+| _**button**_  | _butonlar_|
+| _**events**_    | _çalıştırılacak programlar_|
 | `eventName` | _çalıştırılacak program_|
 
 <br>
