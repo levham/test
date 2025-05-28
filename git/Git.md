@@ -29,18 +29,17 @@
     </td>
   </tr>
 
-
   <tr>
     <td>terminal kullanımı</td>
     <td>
-    	[**_link1_**](https://youtu.be/aHOzKAe6bGE?list=PLeGbjrys0OZKPvB7z2JNT8Nxp4VfnFiN6)
-    	[**_link2_**](https://youtu.be/UWmIkn3f1UM?list=PLeGbjrys0OZKPvB7z2JNT8Nxp4VfnFiN6)
+    	<a href="https://youtu.be/aHOzKAe6bGE?list=PLeGbjrys0OZKPvB7z2JNT8Nxp4VfnFiN6 target="_blank">link1</a><br>
+    	<a href="https://youtu.be/UWmIkn3f1UM?list=PLeGbjrys0OZKPvB7z2JNT8Nxp4VfnFiN6 target="_blank">link2</a>
     </td>
   </tr>
 
  <tr>
     <td>git komutları</td>
-    <td>[**_git-scm.com/search_**](https://git-scm.com/search/results?search=&language=en)</td>
+    <td><a href="https://git-scm.com/search/results?search=&language=en" target="_blank">git-scm.com/search</a></td> 
   </tr>
  
  <tr>
@@ -56,16 +55,14 @@
  <tr>
     <td>state bölgesine dosya gönderme </td>
     <td>
-    	<pre><code>git add ? </code></pre>
+    	<pre><code>git add ? </code></pre><br>
     	<pre><code>git add . </code></pre>
     </td>
   </tr>
  
  <tr>
     <td>göndermeden önceki yorum yapma</td>
-    <td>
-    <pre><code>git commit -m "yorum" </code></pre>
-    </td>
+    <td><pre><code>git commit -m "yorum" </code></pre></td>
   </tr>
 
  <tr>
@@ -98,47 +95,46 @@
 	git status yapınca görünmüyorlar</td>
   </tr>
   
- <tr>
+<tr>
     <td><pre><code>git rm --cached ?</code></pre><br>
     	<pre><code>git rm --cached -r ? </code></pre><br> 
     	<pre><code>git rm --cached config.json </code></pre></td>
     <td>diyelimki config.json dosyasını gitignore ye koymadan commit edilmişse config.json dosyasında değişiklik yapınca bu değişiklik git statusta görünüyor. buna engel olmak için git rm --cached config.json yazqabilirsin bu sayede daha takip edilmez. klasörler için  git rm --cached -r </td>
-  </tr>
+</tr>
  
- <tr>
+<tr>
     <td>visual studio code'da git</td>
     <td>visual studio code da dosya listesinde gitignore varsa onun içindeki dosya o listede soluk renkte görülür. ayrıca takip edilen ve edilmeyen dosyalarda görülür. değişiklik bir dosyada yapılmışsa turuncu renkte yazı rengi değişir ve yanında M sembolu olur .eğer yanında U yazarsa takip edilmeyen anlamında </td>
-  </tr>
-	 
- <tr>
-    <td>
-    	<pre><code>git branch</code></pre><br>
-    	<pre><code>git switch -C ? </code></pre><br>
-    	<pre><code>git branch -m /code></pre><br>
-    	<pre><code>git branch -d test</code></pre><br>
-    	<pre><code>git branch -D </code></pre><br>
-    </td>
-    <td>
-    	branch listeler ve mevcut branch başında * görünür<br>
-		yeni brancg oluşturur ve geçiş yapar<br>
- 		şuanki branch adı değiştirir<br>
- 		test branchını siler ama bulunduğu yeri silemezsin diğer brancha geçiş yapmalısın<br>
-	</td>
-  </tr>
+</tr>
+<tr>
+	<td><pre><code>git branch</code></pre> <br>
+	<td>branch listeler ve mevcut branch başında * görünür </td>
+</tr>
 
- <tr>
+<tr>
+    <td><pre><code>git switch -C ? </code></pre> </td>
+	<td>yeni brancg oluşturur ve geçiş yapar </td>
+</tr>
+<tr>
+	<td><pre><code>git branch -m /code></pre> </code>
+	<td>şuanki branch adı değiştirir </code>
+</tr>
+<tr>
+	<td><pre><code>git branch -d test</code></pre> <br>
+ 	<pre><code>git branch -D </code></pre> </td>
+ 	td>test branchını siler ama bulunduğu yeri silemezsin diğer brancha geçiş yapmalısın </td>
+<tr>
+<tr>
     <td> <pre><code>git switch ? </code></pre></td>
     <td>branchlara geçiş yapar.ve geçiş yaptığı branch a göre dizinde o dosyalar görünür.</td>
-  </tr>
-  
- <tr>
+</tr> 
+<tr>
     <td> <pre><code>git checkout</code></pre></td>
     <td>git switch in alternatifi eskisii</td>
-  </tr>
- 
- <tr>
+</tr>
+<tr>
     <td>git switch -f master </td>
     <td>branchlar arası geçişte değişikliği kaydedilmeyen dosyalar için uyarı alınabilir  - f parametresiyle geçiş yapabilrisiniz ama veri kaybı oluyor </td>
-  </tr>
+</tr>
  
 </table>
