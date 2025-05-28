@@ -1,6 +1,6 @@
 # ✨ <ins> Notes</ins>
-> ###_**Geliştiriciler için notlar yer almaktadır**_
+> _**Geliştiriciler için notlar yer almaktadır**_
 
 | 📂 Sayfalar | 📌 Açıklama|
 |---------------|-------------------|
-| **Git**     | [_git sayfası_](git/Git.md)| 
+| **Git**     | [_Git Hakkında_](git/Git.md)| 
