@@ -17,13 +17,13 @@
   
   </tr>
 
-
+<br>
 
 </table>
 
 git yükleme yeri -> [**_git-scm.com_**](https://git-scm.com/downloads/win)
 
-git yüklenmiş mi diye kontrol et `git --version `
+git yüklenmiş mi diye kontrol et ``git --version ``
 	
 
 eğer olmuyorsa -> 
