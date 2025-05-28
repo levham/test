@@ -17,8 +17,8 @@
 | _**button**_  | _butonlar_|
 | _**events**_    | _çalıştırılacak programlar_|
 | `eventName` | _çalıştırılacak program_|
-<br/>
-<br/>
+<br>
+<br>
 > [!TIP]
 >  ✨✨<ins>**Örnek1 Button.json**</ins> 
 ``` 
@@ -49,10 +49,10 @@
 > 📌**Programın Çalışma Örneği**
 
 ![output](test1.png)
-<br/>
+<br>
 ---
-<br/>
-<br/>
+<br>
+<br>
 
 > [!TIP]
 >  ✨✨<ins>**Örnek2 Button.json**</ins> 
