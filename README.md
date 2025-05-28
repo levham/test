@@ -5,7 +5,7 @@
 
 _Program şurada -> **bin\Debug\net8.0-windows\a16.exe**_ 
 
-# button.json 
+## button.json 
 | 📁 Parametre | 📌 Açıklama|
 |---------------|-------------------|
 | **form**       | _pencere hakkında_|
@@ -18,7 +18,7 @@ _Program şurada -> **bin\Debug\net8.0-windows\a16.exe**_
 
 
 
-_**Örnek Button.json**_
+📁_**Örnek Button.json**_
 ```
 { 
     "form": 
@@ -42,7 +42,7 @@ _**Örnek Button.json**_
 
 }
 ```
-_**Programın Çalışma Örneği**_
+📌_**Programın Çalışma Örneği**_
 ![output](test1.png)
 
 
@@ -50,7 +50,7 @@ _**Programın Çalışma Örneği**_
 
 
 
-_**Örnek2 Button.json**_
+📁_**Örnek2 Button.json**_
 ```
 { 
     "form": 
@@ -76,5 +76,5 @@ _**Örnek2 Button.json**_
 
 }
 ```
-_**Programın Çalışma Örneği**_
+📌_**Programın Çalışma Örneği**_
 ![output](test2.png)
