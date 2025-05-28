@@ -2,28 +2,20 @@
  
 <table border="1">
   <tr>
-    <th>Başlık 1</th>
-    <th>Başlık 2</th>
-    <th>Başlık 3</th>
+    <th>git yükleme yeri</th>
+    <th>[**_git-scm.com_**](https://git-scm.com/downloads/win)</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>git yüklenmiş mi diye kontrol et</td>
+    <td><pre><code>git --version </code></pre></td>
   </tr>
   <tr>
-    <td></td>
     <td></td>
     <td></td>
   </tr>
 </table>
 
-
-
  
-- [x] git yükleme yeri -> [**_git-scm.com_**](https://git-scm.com/downloads/win)
-
-- [x] git yüklenmiş mi diye kontrol et <pre><code>git --version </code></pre>
 
 - [ ] eğer olmuyorsa
 	+ yüklendiği yolu kontrol et 
