@@ -162,7 +162,7 @@
          Son commit'i ve tüm değişiklikleri tamamen siler</td>
 </tr>
 <tr>
-    <td> <pre>git stash </code></pre></td><br> 
+    <td> <pre>git stash </code></pre><br> 
          <pre>git stash list </code></pre><br>
          <pre>git stash apply </code></pre><br>
          <pre>git stash drop </code></pre></td>
