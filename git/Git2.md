@@ -148,50 +148,37 @@
 <tr>
     <td> <pre>git merge <branch-name> </code></pre><br>
          <pre>git rebase <branch-name></code></pre></td> 
-
     <td> Branchleri Birleştirme (Merge & Rebase)<br>
          Belirtilen branch'ı mevcut branch'e birleştirir.<br>
          Mevcut branch'i belirlenen branch'e yeniden düzenler. </td>
- 
 </tr>
-
 <tr>
     <td> <pre>git checkout -- <file> </code></pre><br>
          <pre>git reset --soft HEAD~1 </code></pre><br>
          <pre>git reset --hard HEAD~1 </code></pre></td> 
-
     <td> Değişiklikleri Geri Alma (Undo & Reset)<br>
          Belirtilen dosyayı son commit durumuna döndürür.<br>
          Son commit'i geri alır ama değişiklikleri korur.<br>
          Son commit'i ve tüm değişiklikleri tamamen siler</td>
-
-
 </tr>
-
 <tr>
     <td> <pre>git stash </code></pre></td><br> 
          <pre>git stash list </code></pre><br>
          <pre>git stash apply </code></pre><br>
          <pre>git stash drop </code></pre></td>
-
     <td> Git Stash (Geçici Olarak Değişiklikleri Kaydetme)<br>
          Çalışma alanındaki değişiklikleri geçici olarak saklar.<br>
          Saklanan değişiklikleri listeler.<br>
          Son saklanan değişiklikleri tekrar uygular.<br>
          Saklanan değişiklikleri siler.</td>
-
 </tr>
-
 <tr>
     <td> <pre>git tag -a v1.0 -m "Version 1.0" </code></pre><br>
          <pre>git tag </code></pre><br>
          <pre>git push origin --tags </code></pre></td>
-
     <td> Tag Kullanımı (Sürüm Etiketleme)<br>
          Belirtilen sürümde bir etiket oluşturur.<br>
          Tüm etiketleri listeler.<br>
          Tüm etiketleri uzak repoya gönderir.</td>
-
 <tr>
-
 </table>
