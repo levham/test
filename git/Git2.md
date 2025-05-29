@@ -140,9 +140,9 @@
     <td> <pre><code>git remote add origin ?repourl? </code></pre> <br>
          <pre><code>git remote -v </code></pre> <br>
          <pre><code>git remote remove ?name? </code></pre></td> 
-    <td> Remote Repository Ekleme ve Yönetme <br>
-         Uzaktaki bir repo ekler. <br>
-         Mevcut uzak repo bağlantılarını listeler. <br>
+    <td> Remote Repository Ekleme ve Yönetme <br><br>
+         Uzaktaki bir repo ekler. <br><br>
+         Mevcut uzak repo bağlantılarını listeler. <br><br>
          Uzak repo bağlantısını kaldırır.</td>
 </tr>
 <tr>
