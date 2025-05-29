@@ -29,13 +29,13 @@
     </td>
   </tr>
 
-  <tr>
+<tr>
     <td>terminal kullanımı</td>
     <td>
     	<a href="https://youtu.be/aHOzKAe6bGE?list=PLeGbjrys0OZKPvB7z2JNT8Nxp4VfnFiN6 target="_blank">link1</a><br>
     	<a href="https://youtu.be/UWmIkn3f1UM?list=PLeGbjrys0OZKPvB7z2JNT8Nxp4VfnFiN6 target="_blank">link2</a>
     </td>
-  </tr>
+ </tr>
 
  <tr>
     <td>git komutları</td>
