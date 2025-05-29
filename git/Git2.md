@@ -137,7 +137,6 @@
     <td>branchlar arası geçişte değişikliği kaydedilmeyen dosyalar için uyarı alınabilir  - f parametresiyle geçiş yapabilrisiniz ama veri kaybı oluyor </td>
 </tr>
  
-</table>
 
 <tr> 
     <td> <pre>git remote add origin <repo-url> </code></pre> <br>
@@ -199,3 +198,5 @@
          Tüm etiketleri uzak repoya gönderir.</td>
 
 <tr>
+
+</table>
