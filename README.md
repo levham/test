@@ -3,4 +3,4 @@
 
 | 📂 Sayfalar | 📌 Açıklama|
 |---------------|-------------------|
-| **Git**     | [_Git Hakkında_](git/Git.md)| 
+| **Git**     | [_Git Snippet_](git/Git.md)<br>_Git Hakkında_](git/Git.md)| 
