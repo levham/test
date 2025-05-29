@@ -137,35 +137,35 @@
     <td>branchlar arası geçişte değişikliği kaydedilmeyen dosyalar için uyarı alınabilir  - f parametresiyle geçiş yapabilrisiniz ama veri kaybı oluyor </td>
 </tr>
 <tr> 
-    <td> <pre>git remote add origin ?repourl? </code></pre> <br>
-         <pre>git remote -v </code></pre> <br>
-         <pre>git remote remove ?name? </code></pre></td> 
+    <td> <pre><code>git remote add origin ?repourl? </code></pre> <br>
+         <pre><code>git remote -v </code></pre> <br>
+         <pre><code>git remote remove ?name? </code></pre></td> 
     <td> Remote Repository Ekleme ve Yönetme <br>
          Uzaktaki bir repo ekler. <br>
          Mevcut uzak repo bağlantılarını listeler. <br>
          Uzak repo bağlantısını kaldırır.</td>
 </tr>
 <tr>
-    <td> <pre>git merge ?branch-name? </code></pre><br>
-         <pre>git rebase ?branch-name?</code></pre></td> 
+    <td> <pre><code>git merge ?branch-name? </code></pre><br>
+         <pre><code>git rebase ?branch-name?</code></pre></td> 
     <td> Branchleri Birleştirme (Merge & Rebase)<br>
          Belirtilen branch'ı mevcut branch'e birleştirir.<br>
          Mevcut branch'i belirlenen branch'e yeniden düzenler. </td>
 </tr>
 <tr>
-    <td> <pre>git checkout -- ?file? </code></pre><br>
-         <pre>git reset --soft HEAD~1 </code></pre><br>
-         <pre>git reset --hard HEAD~1 </code></pre></td> 
+    <td> <pre><code>git checkout -- ?file? </code></pre><br>
+         <pre><code>git reset --soft HEAD~1 </code></pre><br>
+         <pre><code>git reset --hard HEAD~1 </code></pre></td> 
     <td> Değişiklikleri Geri Alma (Undo & Reset)<br>
          Belirtilen dosyayı son commit durumuna döndürür.<br>
          Son commit'i geri alır ama değişiklikleri korur.<br>
          Son commit'i ve tüm değişiklikleri tamamen siler</td>
 </tr>
 <tr>
-    <td> <pre>git stash </code></pre><br> 
-         <pre>git stash list </code></pre><br>
-         <pre>git stash apply </code></pre><br>
-         <pre>git stash drop </code></pre></td>
+    <td> <pre><code>git stash </code></pre><br> 
+         <pre><code>git stash list </code></pre><br>
+         <pre><code>git stash apply </code></pre><br>
+         <pre><code>git stash drop </code></pre></td>
     <td> Git Stash (Geçici Olarak Değişiklikleri Kaydetme)<br>
          Çalışma alanındaki değişiklikleri geçici olarak saklar.<br>
          Saklanan değişiklikleri listeler.<br>
@@ -173,9 +173,9 @@
          Saklanan değişiklikleri siler.</td>
 </tr>
 <tr>
-    <td> <pre>git tag -a v1.0 -m "Version 1.0" </code></pre><br>
-         <pre>git tag </code></pre><br>
-         <pre>git push origin --tags </code></pre></td>
+    <td> <pre><code>git tag -a v1.0 -m "Version 1.0" </code></pre><br>
+         <pre><code>git tag </code></pre><br>
+         <pre><code>git push origin --tags </code></pre></td>
     <td> Tag Kullanımı (Sürüm Etiketleme)<br>
          Belirtilen sürümde bir etiket oluşturur.<br>
          Tüm etiketleri listeler.<br>
