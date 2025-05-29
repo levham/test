@@ -137,23 +137,23 @@
     <td>branchlar arası geçişte değişikliği kaydedilmeyen dosyalar için uyarı alınabilir  - f parametresiyle geçiş yapabilrisiniz ama veri kaybı oluyor </td>
 </tr>
 <tr> 
-    <td> <pre>git remote add origin <repo-url> </code></pre> <br>
+    <td> <pre>git remote add origin ?repourl? </code></pre> <br>
          <pre>git remote -v </code></pre> <br>
-         <pre>git remote remove <name> </code></pre></td> 
+         <pre>git remote remove ?name? </code></pre></td> 
     <td> Remote Repository Ekleme ve Yönetme <br>
          Uzaktaki bir repo ekler. <br>
          Mevcut uzak repo bağlantılarını listeler. <br>
          Uzak repo bağlantısını kaldırır.</td>
 </tr>
 <tr>
-    <td> <pre>git merge <branch-name> </code></pre><br>
-         <pre>git rebase <branch-name></code></pre></td> 
+    <td> <pre>git merge ?branch-name? </code></pre><br>
+         <pre>git rebase ?branch-name?</code></pre></td> 
     <td> Branchleri Birleştirme (Merge & Rebase)<br>
          Belirtilen branch'ı mevcut branch'e birleştirir.<br>
          Mevcut branch'i belirlenen branch'e yeniden düzenler. </td>
 </tr>
 <tr>
-    <td> <pre>git checkout -- <file> </code></pre><br>
+    <td> <pre>git checkout -- ?file? </code></pre><br>
          <pre>git reset --soft HEAD~1 </code></pre><br>
          <pre>git reset --hard HEAD~1 </code></pre></td> 
     <td> Değişiklikleri Geri Alma (Undo & Reset)<br>
